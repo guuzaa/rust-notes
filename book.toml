@@ -1,0 +1,5 @@
+[book]
+authors = ["Jowell Young"]
+language = "zh-CN"
+src = "src"
+title = "Rust 笔记📒"
